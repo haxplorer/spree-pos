@@ -48,7 +48,7 @@ Installation
 
 Add to your Gemfile with 
 
-  gem "spree_pos", :git => "git://github.com/dancinglightning/spree-pos.git"
+  gem "spree_pos", :git => "git://github.com/shingonoide/spree-pos.git"
 
 and run bundler.
 
